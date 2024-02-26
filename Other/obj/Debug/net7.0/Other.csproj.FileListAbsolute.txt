@@ -1,0 +1,11 @@
+D:\otter\VSProject\ConsoleCSharp\Other\bin\Debug\net7.0\Other.deps.json
+D:\otter\VSProject\ConsoleCSharp\Other\bin\Debug\net7.0\Other.dll
+D:\otter\VSProject\ConsoleCSharp\Other\bin\Debug\net7.0\Other.pdb
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.dll
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\refint\Other.dll
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.pdb
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\ref\Other.dll

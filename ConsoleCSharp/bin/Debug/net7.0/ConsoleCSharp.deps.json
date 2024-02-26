@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleCSharp/1.0.0": {
+        "dependencies": {
+          "ClassLibrary14": "1.0.0",
+          "ClassLibrary5": "1.0.0",
+          "ClassLibrary6": "1.0.0",
+          "Other": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleCSharp.dll": {}
+        }
+      },
+      "ClassLibrary14/1.0.0": {
+        "runtime": {
+          "ClassLibrary14.dll": {}
+        }
+      },
+      "ClassLibrary5/1.0.0": {
+        "runtime": {
+          "ClassLibrary5.dll": {}
+        }
+      },
+      "ClassLibrary6/1.0.0": {
+        "runtime": {
+          "ClassLibrary6.dll": {}
+        }
+      },
+      "Other/1.0.0": {
+        "runtime": {
+          "Other.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Other/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

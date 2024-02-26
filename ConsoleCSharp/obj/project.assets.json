@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ClassLibrary14/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary14.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary14.dll": {}
+        }
+      },
+      "ClassLibrary5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary5.dll": {}
+        }
+      },
+      "ClassLibrary6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary6.dll": {}
+        }
+      },
+      "Other/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Other.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Other.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary14/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary14/ClassLibrary14.csproj",
+      "msbuildProject": "../ClassLibrary14/ClassLibrary14.csproj"
+    },
+    "ClassLibrary5/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary5/ClassLibrary5.csproj",
+      "msbuildProject": "../ClassLibrary5/ClassLibrary5.csproj"
+    },
+    "ClassLibrary6/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary6/ClassLibrary6.csproj",
+      "msbuildProject": "../ClassLibrary6/ClassLibrary6.csproj"
+    },
+    "Other/1.0.0": {
+      "type": "project",
+      "path": "../Other/Other.csproj",
+      "msbuildProject": "../Other/Other.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ClassLibrary14 >= 1.0.0",
+      "ClassLibrary5 >= 1.0.0",
+      "ClassLibrary6 >= 1.0.0",
+      "Other >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aziraphale\\.nuget\\packages\\": {},
+    "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "projectName": "ConsoleCSharp",
+      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
+      "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ConsoleCSharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
