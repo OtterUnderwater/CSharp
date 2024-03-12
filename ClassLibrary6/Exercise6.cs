@@ -1,6 +1,6 @@
 ﻿
 
-namespace ClassLibrary6
+namespace Library6Properties
 {
     public class Exercise6
     {

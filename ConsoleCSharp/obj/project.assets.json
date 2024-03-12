@@ -2,34 +2,44 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "ClassLibrary14/1.0.0": {
+      "Library1_4Basics/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/ClassLibrary14.dll": {}
+          "bin/placeholder/Library1_4Basics.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary14.dll": {}
+          "bin/placeholder/Library1_4Basics.dll": {}
         }
       },
-      "ClassLibrary5/1.0.0": {
+      "Library5Class/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/ClassLibrary5.dll": {}
+          "bin/placeholder/Library5Class.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary5.dll": {}
+          "bin/placeholder/Library5Class.dll": {}
         }
       },
-      "ClassLibrary6/1.0.0": {
+      "Library6Properties/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/ClassLibrary6.dll": {}
+          "bin/placeholder/Library6Properties.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary6.dll": {}
+          "bin/placeholder/Library6Properties.dll": {}
+        }
+      },
+      "Library7Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Library7Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library7Inheritance.dll": {}
         }
       },
       "Other/1.0.0": {
@@ -45,20 +55,25 @@
     }
   },
   "libraries": {
-    "ClassLibrary14/1.0.0": {
+    "Library1_4Basics/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary14/ClassLibrary14.csproj",
-      "msbuildProject": "../ClassLibrary14/ClassLibrary14.csproj"
+      "path": "../ClassLibrary14/Library1_4Basics.csproj",
+      "msbuildProject": "../ClassLibrary14/Library1_4Basics.csproj"
     },
-    "ClassLibrary5/1.0.0": {
+    "Library5Class/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary5/ClassLibrary5.csproj",
-      "msbuildProject": "../ClassLibrary5/ClassLibrary5.csproj"
+      "path": "../ClassLibrary5/Library5Class.csproj",
+      "msbuildProject": "../ClassLibrary5/Library5Class.csproj"
     },
-    "ClassLibrary6/1.0.0": {
+    "Library6Properties/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary6/ClassLibrary6.csproj",
-      "msbuildProject": "../ClassLibrary6/ClassLibrary6.csproj"
+      "path": "../ClassLibrary6/Library6Properties.csproj",
+      "msbuildProject": "../ClassLibrary6/Library6Properties.csproj"
+    },
+    "Library7Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary7/Library7Inheritance.csproj",
+      "msbuildProject": "../ClassLibrary7/Library7Inheritance.csproj"
     },
     "Other/1.0.0": {
       "type": "project",
@@ -68,9 +83,10 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ClassLibrary14 >= 1.0.0",
-      "ClassLibrary5 >= 1.0.0",
-      "ClassLibrary6 >= 1.0.0",
+      "Library1_4Basics >= 1.0.0",
+      "Library5Class >= 1.0.0",
+      "Library6Properties >= 1.0.0",
+      "Library7Inheritance >= 1.0.0",
       "Other >= 1.0.0"
     ]
   },
@@ -106,14 +122,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj": {
-              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj"
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj"
             },
-            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj": {
-              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj"
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj"
             },
-            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj": {
-              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj"
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj"
             },
             "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj"

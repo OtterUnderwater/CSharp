@@ -1,0 +1,12 @@
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\bin\Debug\net7.0\Library1.4Basics.deps.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\bin\Debug\net7.0\Library1.4Basics.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\bin\Debug\net7.0\Library1.4Basics.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.sourcelink.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\refint\Library1.4Basics.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1.4Basics.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\ref\Library1.4Basics.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj",
-      "projectName": "ClassLibrary14",
-      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj",
+      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj",
+      "projectName": "Library1_4Basics",
+      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
       "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\obj\\",
       "projectStyle": "PackageReference",

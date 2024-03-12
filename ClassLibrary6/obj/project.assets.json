@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj",
-      "projectName": "ClassLibrary6",
-      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj",
+      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj",
+      "projectName": "Library6Properties",
+      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
       "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\obj\\",
       "projectStyle": "PackageReference",

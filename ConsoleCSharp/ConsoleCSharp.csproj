@@ -8,9 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary14\ClassLibrary14.csproj" />
-    <ProjectReference Include="..\ClassLibrary5\ClassLibrary5.csproj" />
-    <ProjectReference Include="..\ClassLibrary6\ClassLibrary6.csproj" />
+    <ProjectReference Include="..\ClassLibrary14\Library1_4Basics.csproj" />
+    <ProjectReference Include="..\ClassLibrary5\Library5Class.csproj" />
+    <ProjectReference Include="..\ClassLibrary6\Library6Properties.csproj" />
+    <ProjectReference Include="..\ClassLibrary7\Library7Inheritance.csproj" />
     <ProjectReference Include="..\Other\Other.csproj" />
   </ItemGroup>
 

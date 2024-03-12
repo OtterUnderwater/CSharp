@@ -1,5 +1,5 @@
 ﻿
-namespace ClassLibrary5
+namespace Library5Class
 {
     public class Exercise5
     {

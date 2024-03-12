@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj",
-      "projectName": "ClassLibrary5",
-      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj",
+      "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj",
+      "projectName": "Library5Class",
+      "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj",
       "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
       "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\obj\\",
       "projectStyle": "PackageReference",

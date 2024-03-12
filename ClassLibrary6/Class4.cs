@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary6
+namespace Library6Properties
 {
     internal class Class4
     {

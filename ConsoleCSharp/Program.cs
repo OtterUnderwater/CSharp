@@ -1,7 +1,8 @@
 ﻿using Other;
-using ClassLibrary14;
-using ClassLibrary5;
-using ClassLibrary6;
+using Library1_4Basics;
+using Library5Class;
+using Library6Properties;
+using Library7Inheritance;
 
 namespace ConsoleCSharp
 {
@@ -11,12 +12,13 @@ namespace ConsoleCSharp
         {
             Other.InputControl IC = new InputControl();
             Other.RemoteControl1 RC1 = new RemoteControl1();
-            ClassLibrary14.Exercise1 E1 = new Exercise1();
-            ClassLibrary14.Exercise2 E2 = new Exercise2();
-            ClassLibrary14.Exercise3 E3 = new Exercise3();
-            ClassLibrary14.Exercise4 E4 = new Exercise4();
-            ClassLibrary5.Exercise5 E5 = new Exercise5();
-            ClassLibrary6.Exercise6 E6 = new Exercise6();
+            Library1_4Basics.StaticMethods1 E1 = new StaticMethods1();
+            Library1_4Basics.Arrays2 E2 = new Arrays2();
+            Library1_4Basics.Strings3 E3 = new Strings3();
+            Library1_4Basics.ExceptionHandling4 E4 = new ExceptionHandling4();
+            Library5Class.Exercise5 E5 = new Exercise5();
+            Library6Properties.Exercise6 E6 = new Exercise6();
+            Library7Inheritance.Exercise7 E7 = new Exercise7();
             int n, end;
             do
             {
@@ -29,6 +31,9 @@ namespace ConsoleCSharp
                 Console.WriteLine("4. Обработка исключений");
                 Console.WriteLine("5. Классы и объекты");
                 Console.WriteLine("6. Свойства");
+                Console.WriteLine("7. Наследование");
+                Console.WriteLine("8. Абстрактные классы и интерфейсы");
+                Console.WriteLine("9. ???");
                 Console.WriteLine("101. Задачи Дистант");
                 Console.WriteLine("---------------------------");
                 n = Convert.ToInt32(Console.ReadLine());
@@ -41,6 +46,7 @@ namespace ConsoleCSharp
                     case 4: E4.Call(); break;
                     case 5: E5.Call(); break;
                     case 6: E6.Call(); break;
+                    case 7: E7.Call(); break;
                     case 101: RC1.Call(); break;
                     default: Console.WriteLine("Такой темы нет"); break;
                 }

@@ -1,0 +1,12 @@
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\bin\Debug\net7.0\LibraryProperties6.deps.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\bin\Debug\net7.0\LibraryProperties6.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\bin\Debug\net7.0\LibraryProperties6.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.sourcelink.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\refint\LibraryProperties6.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\LibraryProperties6.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\ref\LibraryProperties6.dll

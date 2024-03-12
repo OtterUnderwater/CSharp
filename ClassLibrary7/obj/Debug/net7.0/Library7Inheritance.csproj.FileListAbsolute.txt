@@ -1,0 +1,12 @@
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.deps.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.sourcelink.json
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\refint\Library7Inheritance.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.pdb
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\ref\Library7Inheritance.dll

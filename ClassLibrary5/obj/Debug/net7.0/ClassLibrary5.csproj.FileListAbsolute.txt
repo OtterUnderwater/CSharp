@@ -9,3 +9,4 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.dl
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\refint\ClassLibrary5.dll
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.pdb
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\ref\ClassLibrary5.dll
+D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\ClassLibrary5.sourcelink.json

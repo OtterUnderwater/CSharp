@@ -4,12 +4,12 @@
     "D:\\otter\\VSProject\\ConsoleCSharp\\ConsoleCSharp\\ConsoleCSharp.csproj": {}
   },
   "projects": {
-    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj": {
+    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj",
-        "projectName": "ClassLibrary14",
-        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj",
+        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj",
+        "projectName": "Library1_4Basics",
+        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj",
         "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
         "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\obj\\",
         "projectStyle": "PackageReference",
@@ -68,12 +68,12 @@
         }
       }
     },
-    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj": {
+    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj",
-        "projectName": "ClassLibrary5",
-        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj",
+        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj",
+        "projectName": "Library5Class",
+        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj",
         "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
         "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\obj\\",
         "projectStyle": "PackageReference",
@@ -132,14 +132,78 @@
         }
       }
     },
-    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj": {
+    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj",
-        "projectName": "ClassLibrary6",
-        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj",
+        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj",
+        "projectName": "Library6Properties",
+        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj",
         "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
         "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj",
+        "projectName": "Library7Inheritance",
+        "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj",
+        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
+        "outputPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
@@ -224,14 +288,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\ClassLibrary14.csproj"
+              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary14\\Library1_4Basics.csproj"
               },
-              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\ClassLibrary5.csproj"
+              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj": {
+                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary5\\Library5Class.csproj"
               },
-              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\ClassLibrary6.csproj"
+              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj": {
+                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary6\\Library6Properties.csproj"
+              },
+              "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+                "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj"
               },
               "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj": {
                 "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj"

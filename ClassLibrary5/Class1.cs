@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary5
+namespace Library5Class
 {
     internal class Class1
     {
@@ -23,7 +23,7 @@ namespace ClassLibrary5
             Console.Write("Введите 2 катет прямоугольного треугольника: ");
             cathet2 = Convert.ToInt32(Console.ReadLine());
         }
-
+  
         //Конструктор 2
         public Class1(int side, int c1, int c2)
         {

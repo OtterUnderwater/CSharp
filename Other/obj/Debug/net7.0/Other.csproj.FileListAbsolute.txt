@@ -9,3 +9,4 @@ D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.dll
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\refint\Other.dll
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.pdb
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\ref\Other.dll
+D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.sourcelink.json
