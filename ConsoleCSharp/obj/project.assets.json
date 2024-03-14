@@ -42,6 +42,16 @@
           "bin/placeholder/Library7Inheritance.dll": {}
         }
       },
+      "Library8Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Library8Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library8Interface.dll": {}
+        }
+      },
       "Other/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -75,6 +85,11 @@
       "path": "../ClassLibrary7/Library7Inheritance.csproj",
       "msbuildProject": "../ClassLibrary7/Library7Inheritance.csproj"
     },
+    "Library8Interface/1.0.0": {
+      "type": "project",
+      "path": "../Library8Interface/Library8Interface.csproj",
+      "msbuildProject": "../Library8Interface/Library8Interface.csproj"
+    },
     "Other/1.0.0": {
       "type": "project",
       "path": "../Other/Other.csproj",
@@ -87,6 +102,7 @@
       "Library5Class >= 1.0.0",
       "Library6Properties >= 1.0.0",
       "Library7Inheritance >= 1.0.0",
+      "Library8Interface >= 1.0.0",
       "Other >= 1.0.0"
     ]
   },
@@ -133,6 +149,9 @@
             },
             "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj"
             },
             "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj"

@@ -3,6 +3,7 @@ using Library1_4Basics;
 using Library5Class;
 using Library6Properties;
 using Library7Inheritance;
+using Library8Interface;
 
 namespace ConsoleCSharp
 {
@@ -19,9 +20,11 @@ namespace ConsoleCSharp
             Library5Class.Exercise5 E5 = new Exercise5();
             Library6Properties.Exercise6 E6 = new Exercise6();
             Library7Inheritance.Exercise7 E7 = new Exercise7();
+            Library8Interface.Exercise8 E8 = new Exercise8();
             int n, end;
             do
             {
+                Console.ForegroundColor = ConsoleColor.Yellow; // устанавливаем цвет
                 Console.WriteLine("\tВыберите тему:");
                 Console.WriteLine("---------------------------");
                 Console.WriteLine("0. Входной контроль");
@@ -36,6 +39,7 @@ namespace ConsoleCSharp
                 Console.WriteLine("9. ???");
                 Console.WriteLine("101. Задачи Дистант");
                 Console.WriteLine("---------------------------");
+                Console.ResetColor(); // сбрасываем в стандартный
                 n = Convert.ToInt32(Console.ReadLine());
                 switch (n)
                 {
@@ -47,6 +51,7 @@ namespace ConsoleCSharp
                     case 5: E5.Call(); break;
                     case 6: E6.Call(); break;
                     case 7: E7.Call(); break;
+                    case 8: E8.Call(); break;
                     case 101: RC1.Call(); break;
                     default: Console.WriteLine("Такой темы нет"); break;
                 }

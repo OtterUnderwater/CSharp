@@ -1,0 +1,12 @@
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.deps.json
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.dll
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.pdb
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.sourcelink.json
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.dll
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\refint\Library8Interface.dll
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.pdb
+D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\ref\Library8Interface.dll
