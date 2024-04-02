@@ -27,3 +27,5 @@ D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library1_4Basics
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library7Inheritance.pdb
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library8Interface.dll
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library8Interface.pdb
+D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library9Delegates.dll
+D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library9Delegates.pdb

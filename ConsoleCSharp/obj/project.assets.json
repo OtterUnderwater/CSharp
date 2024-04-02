@@ -52,6 +52,16 @@
           "bin/placeholder/Library8Interface.dll": {}
         }
       },
+      "Library9Delegates/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Library9Delegates.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library9Delegates.dll": {}
+        }
+      },
       "Other/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -90,6 +100,11 @@
       "path": "../Library8Interface/Library8Interface.csproj",
       "msbuildProject": "../Library8Interface/Library8Interface.csproj"
     },
+    "Library9Delegates/1.0.0": {
+      "type": "project",
+      "path": "../Library9Delegates/Library9Delegates.csproj",
+      "msbuildProject": "../Library9Delegates/Library9Delegates.csproj"
+    },
     "Other/1.0.0": {
       "type": "project",
       "path": "../Other/Other.csproj",
@@ -103,6 +118,7 @@
       "Library6Properties >= 1.0.0",
       "Library7Inheritance >= 1.0.0",
       "Library8Interface >= 1.0.0",
+      "Library9Delegates >= 1.0.0",
       "Other >= 1.0.0"
     ]
   },
@@ -153,6 +169,9 @@
             "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj"
             },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Library9Delegates.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Library9Delegates.csproj"
+            },
             "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Other\\Other.csproj"
             }
@@ -189,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

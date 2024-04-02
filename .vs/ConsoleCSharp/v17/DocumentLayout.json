@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\otter\\VSProject\\ConsoleCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D373D6B5-E232-47C9-B405-691F4B0330E9}|Library8Interface\\Library8Interface.csproj|d:\\otter\\vsproject\\consolecsharp\\library8interface\\exercise8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D373D6B5-E232-47C9-B405-691F4B0330E9}|Library8Interface\\Library8Interface.csproj|solutionrelative:library8interface\\exercise8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30613CA3-1B19-4C87-8E45-21472F82B5D3}|Library9Delegates\\Library9Delegates.csproj|d:\\otter\\vsproject\\consolecsharp\\library9delegates\\exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30613CA3-1B19-4C87-8E45-21472F82B5D3}|Library9Delegates\\Library9Delegates.csproj|solutionrelative:library9delegates\\exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercise8.cs",
-              "DocumentMoniker": "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Exercise8.cs",
-              "RelativeDocumentMoniker": "Library8Interface\\Exercise8.cs",
-              "ToolTip": "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Exercise8.cs",
-              "RelativeToolTip": "Library8Interface\\Exercise8.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAARAAAA",
+              "Title": "Exercise9.cs",
+              "DocumentMoniker": "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Exercise9.cs",
+              "RelativeDocumentMoniker": "Library9Delegates\\Exercise9.cs",
+              "ToolTip": "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Exercise9.cs",
+              "RelativeToolTip": "Library9Delegates\\Exercise9.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T23:47:10.654Z",
+              "WhenOpened": "2024-04-02T20:27:18.34Z",
               "EditorCaption": ""
             }
           ]

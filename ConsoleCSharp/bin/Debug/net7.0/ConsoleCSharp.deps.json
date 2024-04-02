@@ -13,6 +13,7 @@
           "Library6Properties": "1.0.0",
           "Library7Inheritance": "1.0.0",
           "Library8Interface": "1.0.0",
+          "Library9Delegates": "1.0.0",
           "Other": "1.0.0"
         },
         "runtime": {
@@ -42,6 +43,11 @@
       "Library8Interface/1.0.0": {
         "runtime": {
           "Library8Interface.dll": {}
+        }
+      },
+      "Library9Delegates/1.0.0": {
+        "runtime": {
+          "Library9Delegates.dll": {}
         }
       },
       "Other/1.0.0": {
@@ -78,6 +84,11 @@
       "sha512": ""
     },
     "Library8Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library9Delegates/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
