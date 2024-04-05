@@ -12,6 +12,7 @@
     <ProjectReference Include="..\ClassLibrary5\Library5Class.csproj" />
     <ProjectReference Include="..\ClassLibrary6\Library6Properties.csproj" />
     <ProjectReference Include="..\ClassLibrary7\Library7Inheritance.csproj" />
+    <ProjectReference Include="..\Library10TextFiles\Library10TextFiles.csproj" />
     <ProjectReference Include="..\Library8Interface\Library8Interface.csproj" />
     <ProjectReference Include="..\Library9Delegates\Library9Delegates.csproj" />
     <ProjectReference Include="..\Other\Other.csproj" />

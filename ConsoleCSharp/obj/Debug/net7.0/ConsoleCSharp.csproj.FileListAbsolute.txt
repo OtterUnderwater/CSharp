@@ -29,3 +29,5 @@ D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library8Interfac
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library8Interface.pdb
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library9Delegates.dll
 D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library9Delegates.pdb
+D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library10TextFiles.dll
+D:\otter\VSProject\ConsoleCSharp\ConsoleCSharp\bin\Debug\net7.0\Library10TextFiles.pdb

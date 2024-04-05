@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "ConsoleCSharp/1.0.0": {
         "dependencies": {
+          "Library10TextFiles": "1.0.0",
           "Library1_4Basics": "1.0.0",
           "Library5Class": "1.0.0",
           "Library6Properties": "1.0.0",
@@ -18,6 +19,11 @@
         },
         "runtime": {
           "ConsoleCSharp.dll": {}
+        }
+      },
+      "Library10TextFiles/1.0.0": {
+        "runtime": {
+          "Library10TextFiles.dll": {}
         }
       },
       "Library1_4Basics/1.0.0": {
@@ -59,6 +65,11 @@
   },
   "libraries": {
     "ConsoleCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library10TextFiles/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

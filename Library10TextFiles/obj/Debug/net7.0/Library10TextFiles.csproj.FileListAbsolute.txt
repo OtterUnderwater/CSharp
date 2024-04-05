@@ -1,0 +1,12 @@
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.deps.json
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.dll
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.pdb
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfoInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfo.cs
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.sourcelink.json
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.dll
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\refint\Library10TextFiles.dll
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.pdb
+D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library10TextFiles.dll

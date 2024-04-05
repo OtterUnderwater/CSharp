@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Library10TextFiles/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Library10TextFiles.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library10TextFiles.dll": {}
+        }
+      },
       "Library1_4Basics/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -75,6 +85,11 @@
     }
   },
   "libraries": {
+    "Library10TextFiles/1.0.0": {
+      "type": "project",
+      "path": "../Library10TextFiles/Library10TextFiles.csproj",
+      "msbuildProject": "../Library10TextFiles/Library10TextFiles.csproj"
+    },
     "Library1_4Basics/1.0.0": {
       "type": "project",
       "path": "../ClassLibrary14/Library1_4Basics.csproj",
@@ -113,6 +128,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Library10TextFiles >= 1.0.0",
       "Library1_4Basics >= 1.0.0",
       "Library5Class >= 1.0.0",
       "Library6Properties >= 1.0.0",
@@ -165,6 +181,9 @@
             },
             "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\ClassLibrary7\\Library7Inheritance.csproj"
+            },
+            "D:\\otter\\VSProject\\ConsoleCSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Library10TextFiles\\Library10TextFiles.csproj"
             },
             "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj": {
               "projectPath": "D:\\otter\\VSProject\\ConsoleCSharp\\Library8Interface\\Library8Interface.csproj"

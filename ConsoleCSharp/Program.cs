@@ -5,6 +5,7 @@ using Library6Properties;
 using Library7Inheritance;
 using Library8Interface;
 using Library9Delegates;
+using Library10TextFiles;
 
 namespace ConsoleCSharp
 {
@@ -23,6 +24,7 @@ namespace ConsoleCSharp
 			Exercise7 E7 = new Exercise7();
 			Exercise8 E8 = new Exercise8();
 			Exercise9 E9 = new Exercise9();
+			Exercise10 E10 = new Exercise10();
 			int n, end;
 			do
 			{
@@ -39,6 +41,7 @@ namespace ConsoleCSharp
 				Console.WriteLine("7. Наследование");
 				Console.WriteLine("8. Абстрактные классы и интерфейсы");
 				Console.WriteLine("9. Делегаты");
+				Console.WriteLine("10. Работа с текстовыми файлами");
 				Console.WriteLine("101. Задачи Дистант");
 				Console.WriteLine("---------------------------");
 				Console.ResetColor(); // сбрасываем в стандартный
@@ -55,6 +58,7 @@ namespace ConsoleCSharp
 					case 7: E7.Call(); break;
 					case 8: E8.Call(); break;
 					case 9: E9.Call(); break;
+					case 10: E10.Call(); break;
 					case 101: RC1.Call(); break;
 					default: Console.WriteLine("Такой темы нет"); break;
 				}

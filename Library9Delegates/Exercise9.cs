@@ -41,15 +41,14 @@ namespace Library9Delegates
 						Console.WriteLine($"Число {num} - {answer}");
 						break;
 					case 4:
-						///ТУТ ДВА ЭКЗЕМПЛЯРА getNumber и getIndex??
-						SimbolInStr getNumber = StringOperations.GetNumberSimbolInStr; // Создание экземпляра делегата
-						SimbolInStr getIndex = StringOperations.GetIndexSimbolInStr;
+						SimbolInStr getEntry = StringOperations.GetNumberSimbolInStr; // Создание экземпляра делегата
 						Console.WriteLine("Введите символ:");
 						char simbol = Convert.ToChar(Console.ReadLine());
 						Console.WriteLine("Введите строку:");
 						string str = Console.ReadLine();
-						Console.WriteLine($"Количество вхождений '{simbol}' в строке: {getNumber(simbol, str)}");
-						Console.WriteLine($"Индекс первого вхождения '{simbol}' в строке: {getIndex(simbol, str)}");
+						Console.WriteLine($"Количество вхождений '{simbol}' в строке: {getEntry(simbol, str)}");
+						getEntry = StringOperations.GetIndexSimbolInStr;
+						Console.WriteLine($"Индекс первого вхождения '{simbol}' в строке: {getEntry(simbol, str)}");
 						break;
 					default: Console.WriteLine("Такого задания нет"); break;
 				}

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\otter\\VSProject\\ConsoleCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30613CA3-1B19-4C87-8E45-21472F82B5D3}|Library9Delegates\\Library9Delegates.csproj|d:\\otter\\vsproject\\consolecsharp\\library9delegates\\exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30613CA3-1B19-4C87-8E45-21472F82B5D3}|Library9Delegates\\Library9Delegates.csproj|solutionrelative:library9delegates\\exercise9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}|Library10TextFiles\\Library10TextFiles.csproj|d:\\otter\\vsproject\\consolecsharp\\library10textfiles\\associationsalut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}|Library10TextFiles\\Library10TextFiles.csproj|solutionrelative:library10textfiles\\associationsalut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercise9.cs",
-              "DocumentMoniker": "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Exercise9.cs",
-              "RelativeDocumentMoniker": "Library9Delegates\\Exercise9.cs",
-              "ToolTip": "D:\\otter\\VSProject\\ConsoleCSharp\\Library9Delegates\\Exercise9.cs",
-              "RelativeToolTip": "Library9Delegates\\Exercise9.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAA3AAAA",
+              "Title": "AssociationSALUT.cs",
+              "DocumentMoniker": "D:\\otter\\VSProject\\ConsoleCSharp\\Library10TextFiles\\AssociationSALUT.cs",
+              "RelativeDocumentMoniker": "Library10TextFiles\\AssociationSALUT.cs",
+              "ToolTip": "D:\\otter\\VSProject\\ConsoleCSharp\\Library10TextFiles\\AssociationSALUT.cs",
+              "RelativeToolTip": "Library10TextFiles\\AssociationSALUT.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:27:18.34Z",
+              "WhenOpened": "2024-04-05T11:43:51.985Z",
               "EditorCaption": ""
             }
           ]
