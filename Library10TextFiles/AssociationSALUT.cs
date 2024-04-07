@@ -7,6 +7,7 @@ using System;
 using System.Reflection.PortableExecutable;
 using static System.Net.Mime.MediaTypeNames;
 using System.Reflection;
+using System.Runtime.CompilerServices;
 
 namespace Library10TextFiles
 {
@@ -17,13 +18,22 @@ namespace Library10TextFiles
 		public int min;
 		public int sec;
 		public int top;
+		public Participants(string name, int quantity, int min, int sec, int top)
+		{
+			this.name = name;
+			this.quantity = quantity;
+			this.min = min;
+			this.sec = sec;
+			this.top = top;
+		}
 	}
-
 	public class AssociationSALUT
 	{
 		List<string>? listPerson = new List<string>();
+		internal List<Participants> ListP { get => listP; set => listP = value; }
 		List<Participants> listP = new List<Participants>();
-
+		internal List<Participants> Person { get => person; set => person = value; }
+		List<Participants> person = new List<Participants>();
 		public void TopParticipants()
 		{
 			string path = @"files/result.txt";
@@ -93,7 +103,7 @@ namespace Library10TextFiles
 					}
 					P.min = P.min + (P.sec) / 60;
 					P.sec = P.sec % 60;
-					listP.Add(P); //Добавляем в коллекцию
+					ListP.Add(P); //Добавляем в коллекцию
 				}
 			}
 		}
@@ -103,28 +113,54 @@ namespace Library10TextFiles
 		/// </summary>
 		private void WriteFile(string pathTop)
 		{
-			List<Participants> temp2 = listP.OrderByDescending(p => p.quantity).ThenBy(p => p.min).ThenBy(p => p.sec).ToList<Participants>();
-			int index = 0;
-			List<Participants> temp = temp2.Select(p =>
+			Person = ListP.OrderByDescending(p => p.quantity).ThenBy(p => p.min).ThenBy(p => p.sec).ToList<Participants>();
+			int t = 1;
+			for (int p = 0; p < Person.Count-1; p++, t++)
 			{
-				p.top = index + 1;
-				index++;
-				return p;
-			}).ToList<Participants>();
+				//cравниваем участников прошедших условие отбора и присваиваем места
+				if (Person[p].quantity == Person[p + 1].quantity)
+				{
+					if (Person[p].min == Person[p + 1].min)
+					{
+						while (Person[p].sec == Person[p + 1].sec)
+						{
+							SetPerson(p, t); p++;
+							SetPerson(p, t);
+						}
+						if (person[p].sec != person[p + 1].sec)
+						{
+							SetPerson(p, t);
+						}
+					}
+					else SetPerson(p, t);
+				}
+				else SetPerson(p, t);
+			}
+			SetPerson(Person.Count-1, t);
 			Console.WriteLine("Рейтинг участников САЛюТ:");
-			for (int i = 0; i < temp.Count; i++)
+			for (int i = 0; i < Person.Count; i++)
 			{
-				Console.WriteLine($"{temp[i].name} {temp[i].quantity} {temp[i].min}:{temp[i].sec} - {temp[i].top}");
+				Console.WriteLine($"{Person[i].name} {Person[i].quantity} {Person[i].min}:{Person[i].sec} - {Person[i].top}");
 			}
 			Console.WriteLine("Результаты соревнований были запиисаны в файл top.txt\n");
 			using (StreamWriter writer = new StreamWriter(pathTop, false))
 			{
-				//false перезаписывает файл а не добавляет, true добавляет
-				foreach (Participants P in temp)
+				//false перезаписывает файл, true добавляет
+				foreach (Participants p in Person)
 				{
-					writer.WriteLine($"{P.name} {P.quantity} {P.min}:{P.sec} - {P.top}");
+					writer.WriteLine($"{p.name} {p.quantity} {p.min}:{p.sec} - {p.top}");
 				}
 			}
+		}
+
+		/// <summary>
+		/// Присваивание значения листу person
+		/// </summary>
+		/// <param name="p"></param>
+		/// <param name="t"></param>
+		public void SetPerson(int p, int t)
+		{
+			Person[p] = new Participants(Person[p].name, Person[p].quantity, Person[p].min, Person[p].sec, t);
 		}
 	}
 }
