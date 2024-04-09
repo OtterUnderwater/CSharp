@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics.Metrics;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -45,8 +47,13 @@ namespace Library11Authorization
         /// <returns></returns>
         static public int CountList()
         {
-            ReadFileCsv();
-            return ListUser.Count + 1;
+            int count = 1;
+            if (File.Exists(path))
+            {
+				ReadFileCsv();
+				count = ListUser.Count + 1;
+			}
+			return count;
         }
 
         /// <summary>
