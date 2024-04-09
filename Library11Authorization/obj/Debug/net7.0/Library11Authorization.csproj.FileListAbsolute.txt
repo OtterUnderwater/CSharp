@@ -10,3 +10,15 @@
 \\main\RDP\33П\ТокареваЭО\Desktop\p\myxina\CSharp\Library11Authorization\obj\Debug\net7.0\refint\Library11Authorization.dll
 \\main\RDP\33П\ТокареваЭО\Desktop\p\myxina\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.pdb
 \\main\RDP\33П\ТокареваЭО\Desktop\p\myxina\CSharp\Library11Authorization\obj\Debug\net7.0\ref\Library11Authorization.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\refint\Library11Authorization.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\ref\Library11Authorization.dll

@@ -22,3 +22,15 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary7\obj\Debug\net7.0\ref\Library7Inhe
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary7\obj\Debug\net7.0\refint\Library7Inheritance.dll
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary7\obj\Debug\net7.0\ref\Library7Inheritance.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\bin\Debug\net7.0\Library7Inheritance.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\refint\Library7Inheritance.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\Library7Inheritance.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary7\obj\Debug\net7.0\ref\Library7Inheritance.dll

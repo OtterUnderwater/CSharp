@@ -165,8 +165,11 @@ namespace Library11Authorization
                         case 2: PrintListUser(); break;
                         case 3: PrintListUserS(); break;
                         case 4:
-                            Console.WriteLine("Введите id пользователя:");
-                            PrintUserId(Convert.ToInt32(Console.ReadLine()));
+                            Console.WriteLine("Введите имя:");
+                            string name = Console.ReadLine();
+                            Console.WriteLine("Введите фамилию:");
+                            string surname = Console.ReadLine));
+                            PrintUserId(name, surname);
                             break;
                         case 5: RegistrationUser(); break;
                         default: Console.WriteLine("Такого задания нет"); break;
@@ -204,14 +207,13 @@ namespace Library11Authorization
         }
 
         /// <summary>
-        /// Показывает пользователя по номеру
+        /// Показывает пользователя по фамилии и имени
         /// </summary>
         /// <param name="id"></param>
-        static public void PrintUserId(int id)
+        static public void PrintUserId(string name, string surname)
         {
             ReadFileCsv();
-            User user = ListUser.FirstOrDefault(u => u.id == id);
-            Console.WriteLine("Совершеннолетние пользователели:");
+            User user = ListUser.FirstOrDefault(u => u.name == name && u.surname == surname);
             Console.WriteLine($"Фамилия: {user.surname}");
             Console.WriteLine($"Имя: {user.name}");
             Console.WriteLine($"Возраст: {user.age}");

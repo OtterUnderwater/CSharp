@@ -22,3 +22,15 @@ D:\otter\VSProject\ConsoleCSharp\Library9Delegates\obj\Debug\net7.0\ref\Library9
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library9Delegates\obj\Debug\net7.0\refint\Library9Delegates.dll
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library9Delegates\obj\Debug\net7.0\ref\Library9Delegates.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\bin\Debug\net7.0\Library9Delegates.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\bin\Debug\net7.0\Library9Delegates.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\bin\Debug\net7.0\Library9Delegates.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\refint\Library9Delegates.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\Library9Delegates.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library9Delegates\obj\Debug\net7.0\ref\Library9Delegates.dll
