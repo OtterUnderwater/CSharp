@@ -34,3 +34,14 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary5\obj\Debug\net7.0\ref\Library5Clas
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary5\obj\Debug\net7.0\refint\Library5Class.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary5\obj\Debug\net7.0\ref\Library5Class.dll
+D:\otter\VSProject\CSharp\ClassLibrary5\bin\Debug\net7.0\Library5Class.deps.json
+D:\otter\VSProject\CSharp\ClassLibrary5\bin\Debug\net7.0\Library5Class.dll
+D:\otter\VSProject\CSharp\ClassLibrary5\bin\Debug\net7.0\Library5Class.pdb
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.dll
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\refint\Library5Class.dll
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\Library5Class.pdb
+D:\otter\VSProject\CSharp\ClassLibrary5\obj\Debug\net7.0\ref\Library5Class.dll

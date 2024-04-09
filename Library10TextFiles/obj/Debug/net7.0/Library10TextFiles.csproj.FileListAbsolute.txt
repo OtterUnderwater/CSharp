@@ -34,3 +34,14 @@ D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library10TextFiles\obj\Debug\net7.0\refint\Library10TextFiles.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library10TextFiles.dll
+D:\otter\VSProject\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.deps.json
+D:\otter\VSProject\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.dll
+D:\otter\VSProject\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.pdb
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.dll
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\refint\Library10TextFiles.dll
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.pdb
+D:\otter\VSProject\CSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library10TextFiles.dll

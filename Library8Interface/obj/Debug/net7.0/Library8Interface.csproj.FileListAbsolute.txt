@@ -34,3 +34,14 @@ D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\ref\Library8
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library8Interface\obj\Debug\net7.0\refint\Library8Interface.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library8Interface\obj\Debug\net7.0\ref\Library8Interface.dll
+D:\otter\VSProject\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.deps.json
+D:\otter\VSProject\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.dll
+D:\otter\VSProject\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.pdb
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.dll
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\refint\Library8Interface.dll
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.pdb
+D:\otter\VSProject\CSharp\Library8Interface\obj\Debug\net7.0\ref\Library8Interface.dll

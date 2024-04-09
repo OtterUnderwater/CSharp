@@ -34,3 +34,14 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\ref\Library6Prop
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary6\obj\Debug\net7.0\refint\Library6Properties.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ClassLibrary6\obj\Debug\net7.0\ref\Library6Properties.dll
+D:\otter\VSProject\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.deps.json
+D:\otter\VSProject\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.dll
+D:\otter\VSProject\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.pdb
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.dll
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\refint\Library6Properties.dll
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.pdb
+D:\otter\VSProject\CSharp\ClassLibrary6\obj\Debug\net7.0\ref\Library6Properties.dll

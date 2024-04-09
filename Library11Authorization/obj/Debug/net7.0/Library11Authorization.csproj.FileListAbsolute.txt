@@ -22,3 +22,14 @@
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\refint\Library11Authorization.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.pdb
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\Library11Authorization\obj\Debug\net7.0\ref\Library11Authorization.dll
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.dll
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\refint\Library11Authorization.dll
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\Library11Authorization.pdb
+D:\otter\VSProject\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.deps.json
+D:\otter\VSProject\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.dll
+D:\otter\VSProject\CSharp\Library11Authorization\bin\Debug\net7.0\Library11Authorization.pdb
+D:\otter\VSProject\CSharp\Library11Authorization\obj\Debug\net7.0\ref\Library11Authorization.dll

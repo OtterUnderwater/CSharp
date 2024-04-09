@@ -112,8 +112,9 @@ namespace Library11Authorization
         /// Чтение из файла
         /// </summary>
         static public void ReadFileCsv()
-        {
-            using (StreamReader read = new StreamReader(path, Encoding.UTF8))
+		{
+			ListUser.Clear();
+			using (StreamReader read = new StreamReader(path, Encoding.UTF8))
             {
                 while (!read.EndOfStream) // Чтение файла до конца
                 {
@@ -168,7 +169,7 @@ namespace Library11Authorization
                             Console.WriteLine("Введите имя:");
                             string name = Console.ReadLine();
                             Console.WriteLine("Введите фамилию:");
-                            string surname = Console.ReadLine));
+                            string surname = Console.ReadLine();
                             PrintUserId(name, surname);
                             break;
                         case 5: RegistrationUser(); break;
