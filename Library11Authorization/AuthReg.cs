@@ -29,7 +29,6 @@ namespace Library11Authorization
             this.role = role;
         }
     }
-
     internal class AuthReg
     {
         static internal List<User> ListUser { get => listUser; set => listUser = value; }
@@ -38,7 +37,17 @@ namespace Library11Authorization
         static string directory = @"files\";
         static string path = directory + "User.csv";
         static User newUser = new User();
-        static int id;
+        static int id => CountList();
+
+        /// <summary>
+        /// Возвращает количество строк + 1
+        /// </summary>
+        /// <returns></returns>
+        static public int CountList()
+        {
+            ReadFileCsv();
+            return ListUser.Count + 1;
+        }
 
         /// <summary>
         /// Регистрация администратора
@@ -66,7 +75,6 @@ namespace Library11Authorization
         {
             try
             {
-                id++;
                 Console.Write("Введите фамилию: ");
                 string surname = Console.ReadLine();
                 Console.Write("Введите имя: ");

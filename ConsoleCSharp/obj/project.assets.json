@@ -155,19 +155,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\токареваэо\\.nuget\\packages\\": {}
+    "C:\\Users\\ТокареваЭО\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "projectUniqueName": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
       "projectName": "ConsoleCSharp",
-      "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
-      "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
-      "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ConsoleCSharp\\obj\\",
+      "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "packagesPath": "C:\\Users\\ТокареваЭО\\.nuget\\packages\\",
+      "outputPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ConsoleCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ТокареваЭО\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -181,32 +181,32 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary5\\Library5Class.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library8Interface\\Library8Interface.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library8Interface\\Library8Interface.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Other\\Other.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\myxina\\CSharp\\Other\\Other.csproj"
+            "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Other\\Other.csproj": {
+              "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Other\\Other.csproj"
             }
           }
         }
@@ -226,17 +226,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
