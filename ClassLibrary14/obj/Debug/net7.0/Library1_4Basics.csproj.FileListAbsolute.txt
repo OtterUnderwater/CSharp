@@ -10,3 +10,15 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basic
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\refint\Library1_4Basics.dll
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.pdb
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary14\obj\Debug\net7.0\ref\Library1_4Basics.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\bin\Debug\net7.0\Library1_4Basics.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\bin\Debug\net7.0\Library1_4Basics.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\bin\Debug\net7.0\Library1_4Basics.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\refint\Library1_4Basics.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\Library1_4Basics.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary14\obj\Debug\net7.0\ref\Library1_4Basics.dll

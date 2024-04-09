@@ -10,3 +10,15 @@ D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properti
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\refint\Library6Properties.dll
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.pdb
 D:\otter\VSProject\ConsoleCSharp\ClassLibrary6\obj\Debug\net7.0\ref\Library6Properties.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\bin\Debug\net7.0\Library6Properties.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\refint\Library6Properties.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\Library6Properties.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\ClassLibrary6\obj\Debug\net7.0\ref\Library6Properties.dll

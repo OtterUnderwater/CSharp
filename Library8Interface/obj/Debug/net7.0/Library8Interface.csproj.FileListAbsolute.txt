@@ -10,3 +10,15 @@ D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Inte
 D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\refint\Library8Interface.dll
 D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.pdb
 D:\otter\VSProject\ConsoleCSharp\Library8Interface\obj\Debug\net7.0\ref\Library8Interface.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\bin\Debug\net7.0\Library8Interface.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\refint\Library8Interface.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\Library8Interface.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library8Interface\obj\Debug\net7.0\ref\Library8Interface.dll

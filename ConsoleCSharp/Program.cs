@@ -6,6 +6,7 @@ using Library7Inheritance;
 using Library8Interface;
 using Library9Delegates;
 using Library10TextFiles;
+using Library11Authorization;
 
 namespace ConsoleCSharp
 {
@@ -25,7 +26,8 @@ namespace ConsoleCSharp
 			Exercise8 E8 = new Exercise8();
 			Exercise9 E9 = new Exercise9();
 			Exercise10 E10 = new Exercise10();
-			int n, end;
+            Exercise11 E11 = new Exercise11();
+            int n, end;
 			do
 			{
 				Console.ForegroundColor = ConsoleColor.Yellow; // устанавливаем цвет
@@ -42,7 +44,8 @@ namespace ConsoleCSharp
 				Console.WriteLine("8. Абстрактные классы и интерфейсы");
 				Console.WriteLine("9. Делегаты");
 				Console.WriteLine("10. Работа с текстовыми файлами");
-				Console.WriteLine("101. Задачи Дистант");
+                Console.WriteLine("11. Авторизация и регистрация пользователя");
+                Console.WriteLine("101. Задачи Дистант");
 				Console.WriteLine("---------------------------");
 				Console.ResetColor(); // сбрасываем в стандартный
 				n = Convert.ToInt32(Console.ReadLine());
@@ -59,7 +62,8 @@ namespace ConsoleCSharp
 					case 8: E8.Call(); break;
 					case 9: E9.Call(); break;
 					case 10: E10.Call(); break;
-					case 101: RC1.Call(); break;
+                    case 11: E11.Call(); break;
+                    case 101: RC1.Call(); break;
 					default: Console.WriteLine("Такой темы нет"); break;
 				}
 				Console.WriteLine("Поменять тему? (1 - да, 0 - нет).");

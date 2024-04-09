@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library8Interface", "Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library9Delegates", "Library9Delegates\Library9Delegates.csproj", "{30613CA3-1B19-4C87-8E45-21472F82B5D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library10TextFiles", "Library10TextFiles\Library10TextFiles.csproj", "{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library10TextFiles", "Library10TextFiles\Library10TextFiles.csproj", "{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library11Authorization", "Library11Authorization\Library11Authorization.csproj", "{B248D099-4183-40E9-8B81-641DD9B488F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F22A6A-0DE7-4CB9-9B19-9A3A36EA770A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B248D099-4183-40E9-8B81-641DD9B488F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B248D099-4183-40E9-8B81-641DD9B488F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B248D099-4183-40E9-8B81-641DD9B488F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B248D099-4183-40E9-8B81-641DD9B488F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

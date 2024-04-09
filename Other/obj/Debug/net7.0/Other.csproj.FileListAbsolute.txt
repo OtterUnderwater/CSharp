@@ -10,3 +10,15 @@ D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\refint\Other.dll
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.pdb
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\ref\Other.dll
 D:\otter\VSProject\ConsoleCSharp\Other\obj\Debug\net7.0\Other.sourcelink.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\bin\Debug\net7.0\Other.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\bin\Debug\net7.0\Other.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\bin\Debug\net7.0\Other.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\refint\Other.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\Other.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Other\obj\Debug\net7.0\ref\Other.dll

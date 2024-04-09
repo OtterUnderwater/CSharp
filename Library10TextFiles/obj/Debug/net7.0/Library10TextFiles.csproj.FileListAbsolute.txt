@@ -10,3 +10,15 @@ D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10Te
 D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\refint\Library10TextFiles.dll
 D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.pdb
 D:\otter\VSProject\ConsoleCSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library10TextFiles.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.deps.json
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\bin\Debug\net7.0\Library10TextFiles.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.csproj.AssemblyReference.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfoInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.AssemblyInfo.cs
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\refint\Library10TextFiles.dll
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\Library10TextFiles.pdb
+\\main\RDP\33П\токареваэо\Desktop\p\myxina\CSharp\Library10TextFiles\obj\Debug\net7.0\ref\Library10TextFiles.dll
