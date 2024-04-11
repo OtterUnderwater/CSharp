@@ -8,7 +8,7 @@ All tasks 3 training course. MDK 01.01 Development of C# software modules
 4. Start the project
 
 ## Support
-If you have any difficulties or questions about using the package, create discussion in this repository.
+If you have any difficulties or questions, create discussion in this repository.
 
 ## Description of commits
 | Name     | Description                                          |
