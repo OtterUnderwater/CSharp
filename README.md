@@ -1,16 +1,27 @@
-# TreningConsoleCSharps
-Все задания 3 учебного курс. МДК 01.01 Разработка программных модулей C#
+# Study of C#
+All tasks 3 training course. MDK 01.01 Development of C# software modules
 
-## Начало работы
-### Запуск программы средствами Visual Studio
-1. Откройте Visual Studio
-2. Нажмите "Клонировать репозиторий"
-3. Вставьте ссылку на репозиторий (http://gogs.ngknn.ru:3000/Otter/CSharp.git)
-4. Запустите проект
+## Installation
+1. Open Visual Studio
+2. Click "Clone Repository"
+3. Paste the link to the repository
+4. Start the project
 
-### Необходимые условия
-* ОС Windows версии 7 и выше
-* Visual Studio
+## Support
+If you have any difficulties or questions about using the package, create discussion in this repository.
 
-## Авторы
-Токарева Элина
+## Description of commits
+| Name     | Description                                          |
+| -------- | ---------------------------------------------------- |
+| docs     | update documentation (readme)                        |
+| feat     | adding new functionality                             |
+| layout   | adding a new layout without functionality            |
+| style    | working with styles and design                       |
+| fix      | error correction                                     |
+| perf     | changes to improve the program                       |
+| refactor | code edits without changing errors or functionality  |
+| revert   | rollback to previous versions                        |
+| test     | adding Tests                                         |
+
+## Authors
+Tokareva Elina ([OtterUnderwater](https://github.com/OtterUnderwater))
