@@ -7,6 +7,7 @@ using Library8Interface;
 using Library9Delegates;
 using Library10TextFiles;
 using Library11Authorization;
+using Library12DateTime;
 
 namespace ConsoleCSharp
 {
@@ -27,6 +28,7 @@ namespace ConsoleCSharp
 			Exercise9 E9 = new Exercise9();
 			Exercise10 E10 = new Exercise10();
             Exercise11 E11 = new Exercise11();
+            Exercise12 E12 = new Exercise12();
             int n, end;
 			do
 			{
@@ -45,6 +47,7 @@ namespace ConsoleCSharp
 				Console.WriteLine("9. Делегаты");
 				Console.WriteLine("10. Работа с текстовыми файлами");
                 Console.WriteLine("11. Авторизация и регистрация пользователя");
+                Console.WriteLine("12. Работа с датой и временем");
                 Console.WriteLine("101. Задачи Дистант");
 				Console.WriteLine("---------------------------");
 				Console.ResetColor(); // сбрасываем в стандартный
@@ -63,6 +66,7 @@ namespace ConsoleCSharp
 					case 9: E9.Call(); break;
 					case 10: E10.Call(); break;
                     case 11: E11.Call(); break;
+                    case 12: E12.Call(); break;
                     case 101: RC1.Call(); break;
 					default: Console.WriteLine("Такой темы нет"); break;
 				}

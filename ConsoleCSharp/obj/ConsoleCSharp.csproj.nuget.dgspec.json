@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj": {}
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj": {}
   },
   "projects": {
-    "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj",
         "projectName": "Library1_4Basics",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj",
         "projectName": "Library5Class",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,11 +89,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -128,25 +110,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj",
         "projectName": "Library6Properties",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,11 +144,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -192,25 +165,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj",
         "projectName": "Library7Inheritance",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -230,11 +199,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -256,25 +220,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
         "projectName": "ConsoleCSharp",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,32 +248,35 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj"
               },
-              "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj": {
-                "projectPath": "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj"
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
+              },
+              "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj": {
+                "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj"
               }
             }
           }
@@ -322,11 +285,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -348,25 +306,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj",
         "projectName": "Library10TextFiles",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -386,11 +340,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -412,25 +361,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj",
         "projectName": "Library11Authorization",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -450,11 +395,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -476,25 +416,76 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj": {
+    "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj",
+        "projectName": "Library12DateTime",
+        "projectPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\ТокареваЭО\\Desktop\\p\\CSharp\\Library12DateTime\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj",
         "projectName": "Library8Interface",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\Library8Interface\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -514,11 +505,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -540,25 +526,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj",
         "projectName": "Library9Delegates",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -578,11 +560,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -604,25 +581,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj": {
+    "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj",
+        "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj",
         "projectName": "Other",
-        "projectPath": "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj",
-        "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
-        "outputPath": "D:\\otter\\VSProject\\CSharp\\Other\\obj\\",
+        "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj",
+        "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
+        "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -642,11 +615,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -668,7 +636,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

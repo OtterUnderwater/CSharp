@@ -133,3 +133,5 @@ D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\refint\ConsoleCSharp.dl
 D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\ConsoleCSharp.pdb
 D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\ConsoleCSharp.genruntimeconfig.cache
 D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\ref\ConsoleCSharp.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.dll
+\\main\RDP\33П\токареваэо\Desktop\p\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.pdb

@@ -1,0 +1,12 @@
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.csproj.AssemblyReference.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.AssemblyInfoInputs.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.AssemblyInfo.cs
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.deps.json
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.pdb
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\refint\Library12DateTime.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.pdb
+\\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\ref\Library12DateTime.dll
