@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\otter\\VSProject\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B248D099-4183-40E9-8B81-641DD9B488F1}|Library11Authorization\\Library11Authorization.csproj|d:\\otter\\vsproject\\csharp\\library11authorization\\authreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B248D099-4183-40E9-8B81-641DD9B488F1}|Library11Authorization\\Library11Authorization.csproj|solutionrelative:library11authorization\\authreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B248D099-4183-40E9-8B81-641DD9B488F1}|Library11Authorization\\Library11Authorization.csproj|D:\\otter\\VSProject\\CSharp\\library11authorization\\exercise11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B248D099-4183-40E9-8B81-641DD9B488F1}|Library11Authorization\\Library11Authorization.csproj|solutionrelative:library11authorization\\exercise11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8EC269F-61BC-4F66-A554-E6F62FCAEA23}|Library13RegularExpressions\\Library13RegularExpressions.csproj|d:\\otter\\vsproject\\csharp\\library13regularexpressions\\regularclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EC269F-61BC-4F66-A554-E6F62FCAEA23}|Library13RegularExpressions\\Library13RegularExpressions.csproj|solutionrelative:library13regularexpressions\\regularclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,27 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Exercise11.cs",
-              "DocumentMoniker": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Exercise11.cs",
-              "RelativeDocumentMoniker": "Library11Authorization\\Exercise11.cs",
-              "ToolTip": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Exercise11.cs",
-              "RelativeToolTip": "Library11Authorization\\Exercise11.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:27:46.193Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthReg.cs",
-              "DocumentMoniker": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\AuthReg.cs",
-              "RelativeDocumentMoniker": "Library11Authorization\\AuthReg.cs",
-              "ToolTip": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\AuthReg.cs",
-              "RelativeToolTip": "Library11Authorization\\AuthReg.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA2wDMAAAANAAAA",
+              "Title": "RegularClass.cs",
+              "DocumentMoniker": "D:\\otter\\VSProject\\CSharp\\Library13RegularExpressions\\RegularClass.cs",
+              "RelativeDocumentMoniker": "Library13RegularExpressions\\RegularClass.cs",
+              "ToolTip": "D:\\otter\\VSProject\\CSharp\\Library13RegularExpressions\\RegularClass.cs",
+              "RelativeToolTip": "Library13RegularExpressions\\RegularClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:37:25.241Z",
+              "WhenOpened": "2024-04-15T23:15:17.37Z",
               "EditorCaption": ""
             }
           ]

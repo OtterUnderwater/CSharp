@@ -12,7 +12,8 @@
                 Console.WriteLine("1. Проверка является ли день выходным");
                 Console.WriteLine("2. Дата начала недели");
                 Console.WriteLine("3. Прошло дней с начала года");
-                Console.WriteLine("----------------------------------");
+				Console.WriteLine("ДОДЕЛАТЬ");
+				Console.WriteLine("----------------------------------");
                 n = Convert.ToInt32(Console.ReadLine());
                 switch (n)
                 {
@@ -33,6 +34,5 @@
                 end = Convert.ToInt32(Console.ReadLine());
             } while (end > 0);
         }
-
     }
 }

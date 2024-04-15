@@ -1,4 +1,4 @@
-# Study of C#
+# Study of C\#
 All tasks 3 training course. MDK 01.01 Development of C# software modules
 
 ## Installation

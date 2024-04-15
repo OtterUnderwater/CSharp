@@ -31,7 +31,8 @@ namespace Library11Authorization
             this.role = role;
         }
     }
-    internal class AuthReg
+
+	internal class AuthReg
     {
         static internal List<User> ListUser { get => listUser; set => listUser = value; }
         static List<User> listUser = new List<User>();

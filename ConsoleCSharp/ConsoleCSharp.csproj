@@ -15,6 +15,7 @@
     <ProjectReference Include="..\Library10TextFiles\Library10TextFiles.csproj" />
     <ProjectReference Include="..\Library11Authorization\Library11Authorization.csproj" />
     <ProjectReference Include="..\Library12DateTime\Library12DateTime.csproj" />
+    <ProjectReference Include="..\Library13RegularExpressions\Library13RegularExpressions.csproj" />
     <ProjectReference Include="..\Library8Interface\Library8Interface.csproj" />
     <ProjectReference Include="..\Library9Delegates\Library9Delegates.csproj" />
     <ProjectReference Include="..\Other\Other.csproj" />

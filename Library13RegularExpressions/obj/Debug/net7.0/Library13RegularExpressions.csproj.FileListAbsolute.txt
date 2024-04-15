@@ -1,0 +1,11 @@
+D:\otter\VSProject\CSharp\Library13RegularExpressions\bin\Debug\net7.0\Library13RegularExpressions.deps.json
+D:\otter\VSProject\CSharp\Library13RegularExpressions\bin\Debug\net7.0\Library13RegularExpressions.dll
+D:\otter\VSProject\CSharp\Library13RegularExpressions\bin\Debug\net7.0\Library13RegularExpressions.pdb
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.dll
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\refint\Library13RegularExpressions.dll
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\Library13RegularExpressions.pdb
+D:\otter\VSProject\CSharp\Library13RegularExpressions\obj\Debug\net7.0\ref\Library13RegularExpressions.dll

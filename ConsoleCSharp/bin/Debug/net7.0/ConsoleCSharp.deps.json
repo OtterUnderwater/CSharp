@@ -11,6 +11,7 @@
           "Library10TextFiles": "1.0.0",
           "Library11Authorization": "1.0.0",
           "Library12DateTime": "1.0.0",
+          "Library13RegularExpressions": "1.0.0",
           "Library1_4Basics": "1.0.0",
           "Library5Class": "1.0.0",
           "Library6Properties": "1.0.0",
@@ -36,6 +37,11 @@
       "Library12DateTime/1.0.0": {
         "runtime": {
           "Library12DateTime.dll": {}
+        }
+      },
+      "Library13RegularExpressions/1.0.0": {
+        "runtime": {
+          "Library13RegularExpressions.dll": {}
         }
       },
       "Library1_4Basics/1.0.0": {
@@ -92,6 +98,11 @@
       "sha512": ""
     },
     "Library12DateTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library13RegularExpressions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

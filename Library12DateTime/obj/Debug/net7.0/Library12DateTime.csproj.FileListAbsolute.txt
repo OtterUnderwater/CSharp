@@ -10,3 +10,14 @@
 \\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\refint\Library12DateTime.dll
 \\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.pdb
 \\main\RDP\33П\ТокареваЭО\Desktop\p\CSharp\Library12DateTime\obj\Debug\net7.0\ref\Library12DateTime.dll
+D:\otter\VSProject\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.deps.json
+D:\otter\VSProject\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.dll
+D:\otter\VSProject\CSharp\Library12DateTime\bin\Debug\net7.0\Library12DateTime.pdb
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.AssemblyInfoInputs.cache
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.AssemblyInfo.cs
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.dll
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\refint\Library12DateTime.dll
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\Library12DateTime.pdb
+D:\otter\VSProject\CSharp\Library12DateTime\obj\Debug\net7.0\ref\Library12DateTime.dll

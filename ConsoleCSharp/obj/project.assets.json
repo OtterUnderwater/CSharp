@@ -32,6 +32,16 @@
           "bin/placeholder/Library12DateTime.dll": {}
         }
       },
+      "Library13RegularExpressions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Library13RegularExpressions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library13RegularExpressions.dll": {}
+        }
+      },
       "Library1_4Basics/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -120,6 +130,11 @@
       "path": "../Library12DateTime/Library12DateTime.csproj",
       "msbuildProject": "../Library12DateTime/Library12DateTime.csproj"
     },
+    "Library13RegularExpressions/1.0.0": {
+      "type": "project",
+      "path": "../Library13RegularExpressions/Library13RegularExpressions.csproj",
+      "msbuildProject": "../Library13RegularExpressions/Library13RegularExpressions.csproj"
+    },
     "Library1_4Basics/1.0.0": {
       "type": "project",
       "path": "../ClassLibrary14/Library1_4Basics.csproj",
@@ -161,6 +176,7 @@
       "Library10TextFiles >= 1.0.0",
       "Library11Authorization >= 1.0.0",
       "Library12DateTime >= 1.0.0",
+      "Library13RegularExpressions >= 1.0.0",
       "Library1_4Basics >= 1.0.0",
       "Library5Class >= 1.0.0",
       "Library6Properties >= 1.0.0",
@@ -171,19 +187,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\токареваэо\\.nuget\\packages\\": {}
+    "C:\\Users\\Aziraphale\\.nuget\\packages\\": {},
+    "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "projectUniqueName": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
       "projectName": "ConsoleCSharp",
-      "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
-      "packagesPath": "C:\\Users\\токареваэо\\.nuget\\packages\\",
-      "outputPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ConsoleCSharp\\obj\\",
+      "projectPath": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\ConsoleCSharp.csproj",
+      "packagesPath": "C:\\Users\\Aziraphale\\.nuget\\packages\\",
+      "outputPath": "D:\\otter\\VSProject\\CSharp\\ConsoleCSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\need_programms\\Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\токареваэо\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aziraphale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -197,35 +218,38 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
+            "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary14\\Library1_4Basics.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary5\\Library5Class.csproj"
+            "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary5\\Library5Class.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
+            "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary6\\Library6Properties.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
+            "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\ClassLibrary7\\Library7Inheritance.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library10TextFiles\\Library10TextFiles.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library11Authorization\\Library11Authorization.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library12DateTime\\Library12DateTime.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library12DateTime\\Library12DateTime.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library12DateTime\\Library12DateTime.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library8Interface\\Library8Interface.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library13RegularExpressions\\Library13RegularExpressions.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library13RegularExpressions\\Library13RegularExpressions.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library8Interface\\Library8Interface.csproj"
             },
-            "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj": {
-              "projectPath": "\\\\main\\RDP\\33П\\токареваэо\\Desktop\\p\\CSharp\\Other\\Other.csproj"
+            "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Library9Delegates\\Library9Delegates.csproj"
+            },
+            "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj": {
+              "projectPath": "D:\\otter\\VSProject\\CSharp\\Other\\Other.csproj"
             }
           }
         }
@@ -234,6 +258,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -255,7 +284,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -135,3 +135,7 @@ D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\ConsoleCSharp.genruntim
 D:\otter\VSProject\CSharp\ConsoleCSharp\obj\Debug\net7.0\ref\ConsoleCSharp.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.dll
 \\main\RDP\33П\токареваэо\Desktop\p\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.pdb
+D:\otter\VSProject\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.dll
+D:\otter\VSProject\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library13RegularExpressions.dll
+D:\otter\VSProject\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library12DateTime.pdb
+D:\otter\VSProject\CSharp\ConsoleCSharp\bin\Debug\net7.0\Library13RegularExpressions.pdb
